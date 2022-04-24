@@ -10,16 +10,14 @@ Here are links to other repositories and websites I have created:
  - https://goodergames.github.io - Source: https://github.com/GooderGames/goodergames.github.io
 
 ### Projects
- - (Unfinished) Battleship In Python - https://github.com/Zbomb2000/Battleship-in-Python
- - ZenityPy - https://github.com/Zbomb2000/ZenityPy
- - ArduinoRock - https://github.com/Zbomb2000/ArduinoRock
+ - IXHell - https://github.com/Zbomb2000/IXHell/
+ - (Unfinished) Battleship In Python - https://github.com/Zbomb2000/Battleship-in-Python/
+ - ZenityPy - https://github.com/Zbomb2000/ZenityPy/
+ - ArduinoRock - https://github.com/Zbomb2000/ArduinoRock/
 
 ### Folders In This Repository
- - untitled-project
- This is code from a project I would rather not talk about.
-
- - random-scripts
- These are random scripts that I have made.
+ - untitled-project - Scripts from a canceled project that doesn't have a title
+ - random-scripts - These are random scripts that I have made.
 
 ## CONTACT INFORMATION
 Email: hxl9500@gmail.com
