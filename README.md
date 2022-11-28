@@ -14,6 +14,7 @@ Here are links to other repositories and websites I have created:
  - (Unfinished) Battleship In Python - https://github.com/Zbomb2000/Battleship-in-Python/
  - ZenityPy - https://github.com/Zbomb2000/ZenityPy/
  - ArduinoRock - https://github.com/Zbomb2000/ArduinoRock/
+ - ANTIxl 2 (attempt 2 at ANTIxl) - It's currently a private repo so no link
 
 ### Folders In This Repository
  - untitled-project - Scripts from a canceled project that doesn't have a title
